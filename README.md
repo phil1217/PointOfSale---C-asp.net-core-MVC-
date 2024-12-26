@@ -14,7 +14,7 @@ Simple Point of Sale System using ASP.NET Core MVC with Entity Framework
   git clone https://github.com/phil1217/PointOfSale-asp.net-core-MVC.git
 ```
 ## Database Design ##
-![pos](ScreenShots/Point Of Sale Database Design.png)
+![pos](https://github.com/phil1217/PointOfSale-asp.net-core-MVC/blob/main/ScreenShots/Point%20Of%20Sale%20Database%20Design.png)
 
 ## Screenshots ##
 ![home](ScreenShots/ss-home.png)
