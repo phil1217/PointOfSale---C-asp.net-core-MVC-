@@ -9,8 +9,8 @@
 * Tax & Discount Rules
 * Vendor Management
 ## Installation ##
-```command
+\n
   git clone https://github.com/phil1217/PointOfSale-asp.net-core-MVC.git
-
+\n
 ## Screenshots ##
 ## License ##
