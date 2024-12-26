@@ -1,6 +1,6 @@
 # PointOfSale-asp.net-core-MVC
 ## Introduction ##
-Simple Point of Sale System using ASP.NET Core MVC with Entity Framework
+Simple Point of Sale System using ASP.NET Core MVC with Entity Framework.
 ## Features ##
 * Reports
 * Customer Management
