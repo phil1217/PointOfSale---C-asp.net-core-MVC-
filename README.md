@@ -1,2 +1,2 @@
-# PointOfSale---C-asp.net-core-MVC-
+# PointOfSale-asp.net-core-MVC
 Simple POS
