@@ -1,5 +1,6 @@
 # PointOfSale-asp.net-core-MVC
 ## Introduction ##
+Simple Point of Sale System using ASP.NET Core MVC with Entity Framework
 ## Features ##
 * Reports
 * Customer Management
@@ -12,6 +13,8 @@
 ```
   git clone https://github.com/phil1217/PointOfSale-asp.net-core-MVC.git
 ```
+## Database Design ##
+
 ## Screenshots ##
 ![home](ScreenShots/ss-home.png)
 
