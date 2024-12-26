@@ -1,0 +1,52 @@
+﻿@model ManagerEmployeeModel
+
+@{
+    ViewData["Title"] = "Employee Details";
+}
+
+<h2>Employee Details</h2>
+
+<div>
+    <h4>Employee</h4>
+    <hr />
+    <dl class="row">
+        <dt class="col-sm-2">First Name</dt>
+        <dd class="col-sm-10">@Model.Employee?.FirstName</dd>
+
+        <dt class="col-sm-2">Last Name</dt>
+        <dd class="col-sm-10">@Model.Employee?.LastName</dd>
+
+        <dt class="col-sm-2">Email</dt>
+        <dd class="col-sm-10">@Model.Employee?.Email</dd>
+
+        <dt class="col-sm-2">Phone Number</dt>
+        <dd class="col-sm-10">@Model.Employee?.PhoneNumber</dd>
+
+        <dt class="col-sm-2">Position</dt>
+        <dd class="col-sm-10">@Model.Employee?.Position</dd>
+
+        <dt class="col-sm-2">Department</dt>
+        <dd class="col-sm-10">@Model.Employee?.Department</dd>
+
+        <dt class="col-sm-2">HireDate</dt>
+        <dd class="col-sm-10">@Model.Employee?.HireDate</dd>
+
+        <dt class="col-sm-2">Salary</dt>
+        <dd class="col-sm-10">@Model.Employee?.Salary</dd>
+
+        <dt class="col-sm-2">Manager</dt>
+        <dd class="col-sm-10">
+            @if (@Model.Manager != null)
+            {
+                @Model.Manager.FirstName @Model.Manager.LastName
+            }else{
+              <span>No manager assigned</span>
+            }
+        </dd>
+    </dl>
+</div>
+
+<div>
+    <a asp-action="EditEmployee" asp-route-id="@Model.Employee?.EmployeeID" class="btn btn-primary">Edit</a>
+    <a asp-action="Index" class="btn btn-secondary">Back to List</a>
+</div>

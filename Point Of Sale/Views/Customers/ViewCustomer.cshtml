@@ -1,0 +1,55 @@
+﻿@model Customers
+
+@{
+    ViewData["Title"] = "Customer Details";
+}
+
+<h2>Customer Details</h2>
+
+<div class="form-group">
+    <label>First Name:</label>
+    <p>@Model.FirstName</p>
+</div>
+<div class="form-group">
+    <label>Last Name:</label>
+    <p>@Model.LastName</p>
+</div>
+<div class="form-group">
+    <label>Email:</label>
+    <p>@Model.Email</p>
+</div>
+<div class="form-group">
+    <label>Phone Number:</label>
+    <p>@Model.PhoneNumber</p>
+</div>
+<div class="form-group">
+    <label>Address:</label>
+    <p>@Model.Address</p>
+</div>
+<div class="form-group">
+    <label>City:</label>
+    <p>@Model.City</p>
+</div>
+<div class="form-group">
+    <label>State:</label>
+    <p>@Model.State</p>
+</div>
+<div class="form-group">
+    <label>Postal Code:</label>
+    <p>@Model.PostalCode</p>
+</div>
+<div class="form-group">
+    <label>Country:</label>
+    <p>@Model.Country</p>
+</div>
+<div class="form-group">
+    <label>Created At:</label>
+    <p>@Model.CreatedAt</p>
+</div>
+<div class="form-group">
+    <label>Updated At:</label>
+    <p>@Model.UpdatedAt</p>
+</div>
+
+<a asp-action="EditCustomer" asp-route-id="@Model.CustomerID" class="btn btn-primary">Edit</a>
+<a asp-action="Index" class="btn btn-secondary">Back to List</a>

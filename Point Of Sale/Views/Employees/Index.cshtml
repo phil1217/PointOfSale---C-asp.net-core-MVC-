@@ -1,0 +1,35 @@
+﻿@model IEnumerable<Employees>
+
+@{
+    ViewData["Title"] = "Employee Management";
+}
+
+<h1>Employee Management</h1>
+<a asp-area="" asp-controller="Employees" asp-action="AddNewEmployee" class="btn btn-primary">Add New Employee</a>
+<table class="table">
+    <thead>
+        <tr>
+            <th>ID</th>
+            <th>Name</th>
+            <th>Position</th>
+            <th>Phone</th>
+            <th>Actions</th>
+        </tr>
+    </thead>
+    <tbody>
+        @foreach (var employee in Model)
+        {
+            <tr>
+            <td>@employee.EmployeeID</td>
+            <td>@employee.FirstName @employee.LastName</td>
+            <td>@employee.Position</td>
+            <td>@employee.PhoneNumber</td>
+            <td>
+                    <a asp-area="" asp-controller="Employees" asp-action="ViewEmployee" asp-route-id="@employee.EmployeeID"  class="btn btn-info">View</a>
+                    <a asp-area="" asp-controller="Employees" asp-action="EditEmployee" asp-route-id="@employee.EmployeeID"  class="btn btn-warning">Edit</a>
+                    <a asp-area="" asp-controller="Employees" asp-action="Delete" asp-route-id="@employee.EmployeeID" class="btn btn-danger">Delete</a>
+            </td>
+        </tr>
+        }
+    </tbody>
+</table>

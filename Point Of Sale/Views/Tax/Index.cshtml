@@ -1,0 +1,34 @@
+﻿@model IEnumerable<TaxRules>
+
+@{
+    ViewData["Title"] = "Tax & Discount Rules";
+}
+
+<h1>Tax & Discount Rules</h1>
+<a asp-action="AddNewRule" class="btn btn-primary">Add New Rule</a>
+<table class="table">
+    <thead>
+        <tr>
+            <th>ID</th>
+            <th>Name</th>
+            <th>Rate</th>
+            <th>Actions</th>
+        </tr>
+    </thead>
+    <tbody>
+        @foreach(var taxRule in Model){
+
+        <tr>
+            <td>@taxRule.TaxRuleID</td>
+            <td>@taxRule.TaxName</td>
+            <td>@taxRule.TaxRate%</td>
+            <td>
+                <a asp-action="ViewTax" asp-route-id="@taxRule.TaxRuleID" class="btn btn-info">View</a>
+                <a asp-action="EditTax" asp-route-id="@taxRule.TaxRuleID" class="btn btn-warning">Edit</a>
+                <a asp-action="Delete" asp-route-id="@taxRule.TaxRuleID" class="btn btn-danger">Delete</a>
+            </td>
+        </tr>
+
+        }
+    </tbody>
+</table>
