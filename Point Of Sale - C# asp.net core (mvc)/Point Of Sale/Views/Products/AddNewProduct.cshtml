@@ -1,0 +1,97 @@
+﻿@*
+    For more information on enabling MVC for empty projects, visit https://go.microsoft.com/fwlink/?LinkID=397860
+*@
+@model ProductSupplierAddModel
+
+@{
+    ViewData["Title"] = "Add New Product";
+}
+
+<h2>@ViewData["Title"]</h2>
+
+<form asp-action="Add" method="post">
+    <!-- Product Supplier Section -->
+    <fieldset>
+        <legend>Product Supplier</legend>
+
+        <div class="form-group">
+            <label asp-for="ProductSupplier.ProductSupplierID" class="control-label"></label>
+            <input asp-for="ProductSupplier.ProductSupplierID" class="form-control" />
+            <span asp-validation-for="ProductSupplier.ProductSupplierID" class="text-danger"></span>
+        </div>
+
+        <div class="form-group">
+            <label asp-for="ProductSupplier.SupplierID" class="control-label"></label>
+            <select asp-for="ProductSupplier.SupplierID" class="form-control" asp-items="ViewBag.SupplierID"></select>
+            <span asp-validation-for="ProductSupplier.SupplierID" class="text-danger"></span>
+        </div>
+
+        <div class="form-group">
+            <label asp-for="ProductSupplier.Price" class="control-label"></label>
+            <input asp-for="ProductSupplier.Price" class="form-control" />
+            <span asp-validation-for="ProductSupplier.Price" class="text-danger"></span>
+        </div>
+
+        <div class="form-group">
+            <label asp-for="ProductSupplier.QuantityInStock" class="control-label"></label>
+            <input asp-for="ProductSupplier.QuantityInStock" class="form-control" />
+            <span asp-validation-for="ProductSupplier.QuantityInStock" class="text-danger"></span>
+        </div>
+
+        <div class="form-group">
+            <label asp-for="ProductSupplier.ReorderLevel" class="control-label"></label>
+            <input asp-for="ProductSupplier.ReorderLevel" class="form-control" />
+            <span asp-validation-for="ProductSupplier.ReorderLevel" class="text-danger"></span>
+        </div>
+    </fieldset>
+
+    <!-- Product Details Section -->
+    <fieldset>
+        <legend>Product Details</legend>
+
+        <div class="form-group">
+            <label asp-for="Product.ProductID" class="control-label"></label>
+            <input asp-for="Product.ProductID" class="form-control" />
+            <span asp-validation-for="Product.ProductID" class="text-danger"></span>
+        </div>
+
+        <div class="form-group">
+            <label asp-for="Product.ProductName" class="control-label"></label>
+            <input asp-for="Product.ProductName" class="form-control" />
+            <span asp-validation-for="Product.ProductName" class="text-danger"></span>
+        </div>
+
+        <div class="form-group">
+            <label asp-for="Product.Description" class="control-label"></label>
+            <textarea asp-for="Product.Description" class="form-control"></textarea>
+            <span asp-validation-for="Product.Description" class="text-danger"></span>
+        </div>
+    </fieldset>
+
+    <!-- Product Categories Section -->
+    <fieldset>
+        <legend>Product Categories</legend>
+
+        <div class="form-group">
+            <label asp-for="ProductCategories.CategoryID" class="control-label"></label>
+            <input asp-for="ProductCategories.CategoryID" class="form-control" />
+            <span asp-validation-for="ProductCategories.CategoryID" class="text-danger"></span>
+        </div>
+
+        <div class="form-group">
+            <label asp-for="ProductCategories.CategoryName" class="control-label"></label>
+            <input asp-for="ProductCategories.CategoryName" class="form-control" />
+            <span asp-validation-for="ProductCategories.CategoryName" class="text-danger"></span>
+        </div>
+
+        <div class="form-group">
+            <label asp-for="ProductCategories.Description" class="control-label"></label>
+            <textarea asp-for="ProductCategories.Description" class="form-control"></textarea>
+            <span asp-validation-for="ProductCategories.Description" class="text-danger"></span>
+        </div>
+    </fieldset>
+
+    <div class="form-group">
+        <input type="submit" value="Save" class="btn btn-primary" />
+    </div>
+</form>

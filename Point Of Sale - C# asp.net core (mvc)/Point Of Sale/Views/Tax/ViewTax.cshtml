@@ -1,0 +1,35 @@
+﻿@*
+    For more information on enabling MVC for empty projects, visit https://go.microsoft.com/fwlink/?LinkID=397860
+*@
+
+@model TaxRules
+
+@{
+    ViewData["Title"] = "Tax Rule Detail";
+}
+
+<h2>Tax Rule Detail</h2>
+<div>
+    <h4>Tax Rule</h4>
+    <hr />
+    <dl class="row">
+
+        <dt class="col-sm-2">Tax Name</dt>
+        <dd class="col-sm-10">@Model.TaxName</dd>
+
+        <dt class="col-sm-2">Tax Rate</dt>
+        <dd class="col-sm-10">@Model.TaxRate%</dd>
+
+        <dt class="col-sm-2">EffectiveDate</dt>
+        <dd class="col-sm-10">@Model.EffectiveDate</dd>
+
+        <dt class="col-sm-2">Description</dt>
+        <dd class="col-sm-10">@Model.Description</dd>
+
+    </dl>
+</div>
+
+<div>
+    <a asp-action="EditTax" asp-route-id="@Model.TaxRuleID" class="btn btn-primary">Edit</a>
+    <a asp-action="Index" class="btn btn-secondary">Back to List</a>
+</div>

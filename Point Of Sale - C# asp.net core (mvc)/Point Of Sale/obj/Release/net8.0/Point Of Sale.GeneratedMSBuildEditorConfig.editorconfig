@@ -1,0 +1,157 @@
+is_global = true
+build_property.TargetFramework = net8.0
+build_property.TargetFramework = net8.0
+build_property.TargetPlatformMinVersion = 
+build_property.TargetPlatformMinVersion = 
+build_property.UsingMicrosoftNETSdkWeb = true
+build_property.UsingMicrosoftNETSdkWeb = true
+build_property.ProjectTypeGuids = 
+build_property.ProjectTypeGuids = 
+build_property.InvariantGlobalization = 
+build_property.InvariantGlobalization = 
+build_property.PlatformNeutralAssembly = 
+build_property.PlatformNeutralAssembly = 
+build_property.EnforceExtendedAnalyzerRules = 
+build_property.EnforceExtendedAnalyzerRules = 
+build_property._SupportedPlatformList = Linux,macOS,Windows
+build_property._SupportedPlatformList = Linux,macOS,Windows
+build_property.RootNamespace = Point_Of_Sale
+build_property.RootNamespace = Point_Of_Sale
+build_property.ProjectDir = C:\Users\HomePC\source\repos\Point Of Sale - C# asp.net core (mvc)\Point Of Sale\
+build_property.EnableComHosting = 
+build_property.EnableGeneratedComInterfaceComImportInterop = 
+build_property.RazorLangVersion = 8.0
+build_property.SupportLocalizedComponentNames = 
+build_property.GenerateRazorMetadataSourceChecksumAttributes = 
+build_property.MSBuildProjectDirectory = C:\Users\HomePC\source\repos\Point Of Sale - C# asp.net core (mvc)\Point Of Sale
+build_property._RazorSourceGeneratorDebug = 
+build_property.EffectiveAnalysisLevelStyle = 8.0
+build_property.EnableCodeStyleSeverity = 
+
+[C:/Users/HomePC/source/repos/Point Of Sale - C\# asp.net core (mvc)/Point Of Sale/Views/Customers/AddNewCustomer.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQ3VzdG9tZXJzXEFkZE5ld0N1c3RvbWVyLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/HomePC/source/repos/Point Of Sale - C\# asp.net core (mvc)/Point Of Sale/Views/Customers/EditCustomer.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQ3VzdG9tZXJzXEVkaXRDdXN0b21lci5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/HomePC/source/repos/Point Of Sale - C\# asp.net core (mvc)/Point Of Sale/Views/Customers/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQ3VzdG9tZXJzXEluZGV4LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/HomePC/source/repos/Point Of Sale - C\# asp.net core (mvc)/Point Of Sale/Views/Customers/ViewCustomer.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQ3VzdG9tZXJzXFZpZXdDdXN0b21lci5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/HomePC/source/repos/Point Of Sale - C\# asp.net core (mvc)/Point Of Sale/Views/Employees/AddNewEmployee.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcRW1wbG95ZWVzXEFkZE5ld0VtcGxveWVlLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/HomePC/source/repos/Point Of Sale - C\# asp.net core (mvc)/Point Of Sale/Views/Employees/EditEmployee.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcRW1wbG95ZWVzXEVkaXRFbXBsb3llZS5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/HomePC/source/repos/Point Of Sale - C\# asp.net core (mvc)/Point Of Sale/Views/Employees/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcRW1wbG95ZWVzXEluZGV4LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/HomePC/source/repos/Point Of Sale - C\# asp.net core (mvc)/Point Of Sale/Views/Employees/ViewEmployee.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcRW1wbG95ZWVzXFZpZXdFbXBsb3llZS5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/HomePC/source/repos/Point Of Sale - C\# asp.net core (mvc)/Point Of Sale/Views/Home/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxJbmRleC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/HomePC/source/repos/Point Of Sale - C\# asp.net core (mvc)/Point Of Sale/Views/Products/AddNewProduct.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUHJvZHVjdHNcQWRkTmV3UHJvZHVjdC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/HomePC/source/repos/Point Of Sale - C\# asp.net core (mvc)/Point Of Sale/Views/Products/EditProduct.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUHJvZHVjdHNcRWRpdFByb2R1Y3QuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/HomePC/source/repos/Point Of Sale - C\# asp.net core (mvc)/Point Of Sale/Views/Products/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUHJvZHVjdHNcSW5kZXguY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/HomePC/source/repos/Point Of Sale - C\# asp.net core (mvc)/Point Of Sale/Views/Products/ViewProduct.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUHJvZHVjdHNcVmlld1Byb2R1Y3QuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/HomePC/source/repos/Point Of Sale - C\# asp.net core (mvc)/Point Of Sale/Views/Reports/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUmVwb3J0c1xJbmRleC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/HomePC/source/repos/Point Of Sale - C\# asp.net core (mvc)/Point Of Sale/Views/Reports/InventoryReports.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUmVwb3J0c1xJbnZlbnRvcnlSZXBvcnRzLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/HomePC/source/repos/Point Of Sale - C\# asp.net core (mvc)/Point Of Sale/Views/Reports/ReportDetails.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUmVwb3J0c1xSZXBvcnREZXRhaWxzLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/HomePC/source/repos/Point Of Sale - C\# asp.net core (mvc)/Point Of Sale/Views/Reports/SalesReports.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUmVwb3J0c1xTYWxlc1JlcG9ydHMuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/HomePC/source/repos/Point Of Sale - C\# asp.net core (mvc)/Point Of Sale/Views/Sales/CreateOrder.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2FsZXNcQ3JlYXRlT3JkZXIuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/HomePC/source/repos/Point Of Sale - C\# asp.net core (mvc)/Point Of Sale/Views/Sales/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2FsZXNcSW5kZXguY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/HomePC/source/repos/Point Of Sale - C\# asp.net core (mvc)/Point Of Sale/Views/Sales/ViewOrder.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2FsZXNcVmlld09yZGVyLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/HomePC/source/repos/Point Of Sale - C\# asp.net core (mvc)/Point Of Sale/Views/Shared/_ValidationScriptsPartial.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF9WYWxpZGF0aW9uU2NyaXB0c1BhcnRpYWwuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/HomePC/source/repos/Point Of Sale - C\# asp.net core (mvc)/Point Of Sale/Views/Tax/AddNewRule.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcVGF4XEFkZE5ld1J1bGUuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/HomePC/source/repos/Point Of Sale - C\# asp.net core (mvc)/Point Of Sale/Views/Tax/EditTax.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcVGF4XEVkaXRUYXguY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/HomePC/source/repos/Point Of Sale - C\# asp.net core (mvc)/Point Of Sale/Views/Tax/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcVGF4XEluZGV4LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/HomePC/source/repos/Point Of Sale - C\# asp.net core (mvc)/Point Of Sale/Views/Tax/ViewTax.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcVGF4XFZpZXdUYXguY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/HomePC/source/repos/Point Of Sale - C\# asp.net core (mvc)/Point Of Sale/Views/Vendors/AddNewVendor.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcVmVuZG9yc1xBZGROZXdWZW5kb3IuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/HomePC/source/repos/Point Of Sale - C\# asp.net core (mvc)/Point Of Sale/Views/Vendors/EditVendor.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcVmVuZG9yc1xFZGl0VmVuZG9yLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/HomePC/source/repos/Point Of Sale - C\# asp.net core (mvc)/Point Of Sale/Views/Vendors/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcVmVuZG9yc1xJbmRleC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/HomePC/source/repos/Point Of Sale - C\# asp.net core (mvc)/Point Of Sale/Views/Vendors/ViewVendor.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcVmVuZG9yc1xWaWV3VmVuZG9yLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/HomePC/source/repos/Point Of Sale - C\# asp.net core (mvc)/Point Of Sale/Views/_ViewImports.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcX1ZpZXdJbXBvcnRzLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/HomePC/source/repos/Point Of Sale - C\# asp.net core (mvc)/Point Of Sale/Views/_ViewStart.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcX1ZpZXdTdGFydC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/HomePC/source/repos/Point Of Sale - C\# asp.net core (mvc)/Point Of Sale/Views/Shared/_Layout.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF9MYXlvdXQuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = b-13sn5ela4a

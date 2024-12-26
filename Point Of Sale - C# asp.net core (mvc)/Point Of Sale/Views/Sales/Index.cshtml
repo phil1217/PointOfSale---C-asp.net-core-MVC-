@@ -1,0 +1,32 @@
+﻿@model IEnumerable<SalesViewModel>
+@{
+    ViewData["Title"] = "Sales Management";
+}
+
+<h1>Sales Management</h1>
+<a asp-action="CreateOrder" class="btn btn-primary">Create New Order</a>
+<table class="table">
+    <thead>
+        <tr>
+            <th>Order ID</th>
+            <th>Customer</th>
+            <th>Date</th>
+            <th>Total</th>
+            <th>Actions</th>
+        </tr>
+    </thead>
+    <tbody>
+        @foreach (var sales in Model) {
+            <tr>
+            <td>@sales.Orders.OrderID</td>
+            <td>@sales.Customers.FirstName @sales.Customers.LastName</td>
+            <td>@sales.Orders.OrderDate</td>
+            <td>@sales.Orders.TotalAmount</td>
+            <td>
+                <a asp-action="ViewOrder" asp-route-id="@sales.Orders.OrderID" class="btn btn-info">View</a>
+                    <a asp-action="Cancel" asp-route-id="@sales.Orders.OrderID" class="btn btn-danger">Cancel</a>
+            </td>
+        </tr>
+        }
+    </tbody>
+</table>

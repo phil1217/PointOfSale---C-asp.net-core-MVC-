@@ -1,0 +1,248 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Personal\\Programming Projects\\Point Of Sale\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{2CEE02AE-B934-401A-8585-E2D0BB331904}|Point Of Sale.csproj|c:\\personal\\programming projects\\point of sale\\data\\applicationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2CEE02AE-B934-401A-8585-E2D0BB331904}|Point Of Sale.csproj|solutionrelative:data\\applicationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2CEE02AE-B934-401A-8585-E2D0BB331904}|Point Of Sale.csproj|c:\\personal\\programming projects\\point of sale\\models\\managers.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2CEE02AE-B934-401A-8585-E2D0BB331904}|Point Of Sale.csproj|solutionrelative:models\\managers.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2CEE02AE-B934-401A-8585-E2D0BB331904}|Point Of Sale.csproj|c:\\personal\\programming projects\\point of sale\\models\\manageremployeemodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2CEE02AE-B934-401A-8585-E2D0BB331904}|Point Of Sale.csproj|solutionrelative:models\\manageremployeemodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2CEE02AE-B934-401A-8585-E2D0BB331904}|Point Of Sale.csproj|c:\\personal\\programming projects\\point of sale\\views\\sales\\vieworder.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{2CEE02AE-B934-401A-8585-E2D0BB331904}|Point Of Sale.csproj|solutionrelative:views\\sales\\vieworder.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2CEE02AE-B934-401A-8585-E2D0BB331904}|Point Of Sale.csproj|c:\\personal\\programming projects\\point of sale\\controllers\\salescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2CEE02AE-B934-401A-8585-E2D0BB331904}|Point Of Sale.csproj|solutionrelative:controllers\\salescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2CEE02AE-B934-401A-8585-E2D0BB331904}|Point Of Sale.csproj|c:\\personal\\programming projects\\point of sale\\models\\productsupplier.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2CEE02AE-B934-401A-8585-E2D0BB331904}|Point Of Sale.csproj|solutionrelative:models\\productsupplier.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2CEE02AE-B934-401A-8585-E2D0BB331904}|Point Of Sale.csproj|c:\\personal\\programming projects\\point of sale\\models\\products.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2CEE02AE-B934-401A-8585-E2D0BB331904}|Point Of Sale.csproj|solutionrelative:models\\products.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2CEE02AE-B934-401A-8585-E2D0BB331904}|Point Of Sale.csproj|c:\\personal\\programming projects\\point of sale\\models\\taxrules.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2CEE02AE-B934-401A-8585-E2D0BB331904}|Point Of Sale.csproj|solutionrelative:models\\taxrules.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2CEE02AE-B934-401A-8585-E2D0BB331904}|Point Of Sale.csproj|c:\\personal\\programming projects\\point of sale\\views\\sales\\createorder.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{2CEE02AE-B934-401A-8585-E2D0BB331904}|Point Of Sale.csproj|solutionrelative:views\\sales\\createorder.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2CEE02AE-B934-401A-8585-E2D0BB331904}|Point Of Sale.csproj|c:\\personal\\programming projects\\point of sale\\models\\viewordermodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2CEE02AE-B934-401A-8585-E2D0BB331904}|Point Of Sale.csproj|solutionrelative:models\\viewordermodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2CEE02AE-B934-401A-8585-E2D0BB331904}|Point Of Sale.csproj|c:\\personal\\programming projects\\point of sale\\models\\reportsviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2CEE02AE-B934-401A-8585-E2D0BB331904}|Point Of Sale.csproj|solutionrelative:models\\reportsviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2CEE02AE-B934-401A-8585-E2D0BB331904}|Point Of Sale.csproj|c:\\personal\\programming projects\\point of sale\\models\\productcategories.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2CEE02AE-B934-401A-8585-E2D0BB331904}|Point Of Sale.csproj|solutionrelative:models\\productcategories.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2CEE02AE-B934-401A-8585-E2D0BB331904}|Point Of Sale.csproj|c:\\personal\\programming projects\\point of sale\\models\\orders.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2CEE02AE-B934-401A-8585-E2D0BB331904}|Point Of Sale.csproj|solutionrelative:models\\orders.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2CEE02AE-B934-401A-8585-E2D0BB331904}|Point Of Sale.csproj|c:\\personal\\programming projects\\point of sale\\models\\orderdetails.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2CEE02AE-B934-401A-8585-E2D0BB331904}|Point Of Sale.csproj|solutionrelative:models\\orderdetails.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "ApplicationDbContext.cs",
+              "DocumentMoniker": "C:\\Personal\\Programming Projects\\Point Of Sale\\Data\\ApplicationDbContext.cs",
+              "RelativeDocumentMoniker": "Data\\ApplicationDbContext.cs",
+              "ToolTip": "C:\\Personal\\Programming Projects\\Point Of Sale\\Data\\ApplicationDbContext.cs",
+              "RelativeToolTip": "Data\\ApplicationDbContext.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-26T02:25:39.104Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Managers.cs",
+              "DocumentMoniker": "C:\\Personal\\Programming Projects\\Point Of Sale\\Models\\Managers.cs",
+              "RelativeDocumentMoniker": "Models\\Managers.cs",
+              "ToolTip": "C:\\Personal\\Programming Projects\\Point Of Sale\\Models\\Managers.cs",
+              "RelativeToolTip": "Models\\Managers.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-26T02:23:41.216Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "ManagerEmployeeModel.cs",
+              "DocumentMoniker": "C:\\Personal\\Programming Projects\\Point Of Sale\\Models\\ManagerEmployeeModel.cs",
+              "RelativeDocumentMoniker": "Models\\ManagerEmployeeModel.cs",
+              "ToolTip": "C:\\Personal\\Programming Projects\\Point Of Sale\\Models\\ManagerEmployeeModel.cs",
+              "RelativeToolTip": "Models\\ManagerEmployeeModel.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-26T02:23:40.008Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "TaxRules.cs",
+              "DocumentMoniker": "C:\\Personal\\Programming Projects\\Point Of Sale\\Models\\TaxRules.cs",
+              "RelativeDocumentMoniker": "Models\\TaxRules.cs",
+              "ToolTip": "C:\\Personal\\Programming Projects\\Point Of Sale\\Models\\TaxRules.cs",
+              "RelativeToolTip": "Models\\TaxRules.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-26T01:57:33.579Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "CreateOrder.cshtml",
+              "DocumentMoniker": "C:\\Personal\\Programming Projects\\Point Of Sale\\Views\\Sales\\CreateOrder.cshtml",
+              "RelativeDocumentMoniker": "Views\\Sales\\CreateOrder.cshtml",
+              "ToolTip": "C:\\Personal\\Programming Projects\\Point Of Sale\\Views\\Sales\\CreateOrder.cshtml",
+              "RelativeToolTip": "Views\\Sales\\CreateOrder.cshtml",
+              "ViewState": "AgIAAAwAAAAAAAAAAAAAACsAAAAsAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-12-26T01:56:56.854Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "OrderDetails.cs",
+              "DocumentMoniker": "C:\\Personal\\Programming Projects\\Point Of Sale\\Models\\OrderDetails.cs",
+              "RelativeDocumentMoniker": "Models\\OrderDetails.cs",
+              "ToolTip": "C:\\Personal\\Programming Projects\\Point Of Sale\\Models\\OrderDetails.cs",
+              "RelativeToolTip": "Models\\OrderDetails.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-26T01:53:46.432Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "SalesController.cs",
+              "DocumentMoniker": "C:\\Personal\\Programming Projects\\Point Of Sale\\Controllers\\SalesController.cs",
+              "RelativeDocumentMoniker": "Controllers\\SalesController.cs",
+              "ToolTip": "C:\\Personal\\Programming Projects\\Point Of Sale\\Controllers\\SalesController.cs",
+              "RelativeToolTip": "Controllers\\SalesController.cs",
+              "ViewState": "AgIAAEoAAAAAAAAAAAAwwFoAAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-26T01:50:24.926Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "ViewOrderModel.cs",
+              "DocumentMoniker": "C:\\Personal\\Programming Projects\\Point Of Sale\\Models\\ViewOrderModel.cs",
+              "RelativeDocumentMoniker": "Models\\ViewOrderModel.cs",
+              "ToolTip": "C:\\Personal\\Programming Projects\\Point Of Sale\\Models\\ViewOrderModel.cs",
+              "RelativeToolTip": "Models\\ViewOrderModel.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-26T01:49:36.239Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "Orders.cs",
+              "DocumentMoniker": "C:\\Personal\\Programming Projects\\Point Of Sale\\Models\\Orders.cs",
+              "RelativeDocumentMoniker": "Models\\Orders.cs",
+              "ToolTip": "C:\\Personal\\Programming Projects\\Point Of Sale\\Models\\Orders.cs",
+              "RelativeToolTip": "Models\\Orders.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAAtAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-26T01:48:55.93Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "ViewOrder.cshtml",
+              "DocumentMoniker": "C:\\Personal\\Programming Projects\\Point Of Sale\\Views\\Sales\\ViewOrder.cshtml",
+              "RelativeDocumentMoniker": "Views\\Sales\\ViewOrder.cshtml",
+              "ToolTip": "C:\\Personal\\Programming Projects\\Point Of Sale\\Views\\Sales\\ViewOrder.cshtml",
+              "RelativeToolTip": "Views\\Sales\\ViewOrder.cshtml",
+              "ViewState": "AgIAAAwAAAAAAAAAAAAAACcAAAA0AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-12-26T01:48:22.512Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Products.cs",
+              "DocumentMoniker": "C:\\Personal\\Programming Projects\\Point Of Sale\\Models\\Products.cs",
+              "RelativeDocumentMoniker": "Models\\Products.cs",
+              "ToolTip": "C:\\Personal\\Programming Projects\\Point Of Sale\\Models\\Products.cs",
+              "RelativeToolTip": "Models\\Products.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-26T01:20:25.467Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "ProductSupplier.cs",
+              "DocumentMoniker": "C:\\Personal\\Programming Projects\\Point Of Sale\\Models\\ProductSupplier.cs",
+              "RelativeDocumentMoniker": "Models\\ProductSupplier.cs",
+              "ToolTip": "C:\\Personal\\Programming Projects\\Point Of Sale\\Models\\ProductSupplier.cs",
+              "RelativeToolTip": "Models\\ProductSupplier.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-26T01:20:16.273Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "ProductCategories.cs",
+              "DocumentMoniker": "C:\\Personal\\Programming Projects\\Point Of Sale\\Models\\ProductCategories.cs",
+              "RelativeDocumentMoniker": "Models\\ProductCategories.cs",
+              "ToolTip": "C:\\Personal\\Programming Projects\\Point Of Sale\\Models\\ProductCategories.cs",
+              "RelativeToolTip": "Models\\ProductCategories.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-26T01:20:04.857Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "ReportsViewModel.cs",
+              "DocumentMoniker": "C:\\Personal\\Programming Projects\\Point Of Sale\\Models\\ReportsViewModel.cs",
+              "RelativeDocumentMoniker": "Models\\ReportsViewModel.cs",
+              "ToolTip": "C:\\Personal\\Programming Projects\\Point Of Sale\\Models\\ReportsViewModel.cs",
+              "RelativeToolTip": "Models\\ReportsViewModel.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-26T01:18:15.337Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
