@@ -14,3 +14,4 @@
 ```
 ## Screenshots ##
 ## License ##
+[MIT License](https://github.com/phil1217/PointOfSale-asp.net-core-MVC/blob/main/LICENSE)
